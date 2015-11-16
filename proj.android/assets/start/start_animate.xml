@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>start.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>boy_eye</name>
+            <delay>0.1</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>start_beye1.PNG</spriteFrame>
+            <spriteFrame>start_beye2.PNG</spriteFrame>
+            <spriteFrame>start_beye3.PNG</spriteFrame>
+            <spriteFrame>start_beye1.PNG</spriteFrame>
+        </animation>
+        <animation>
+            <name>girl_eye</name>
+            <delay>0.1</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>start_geye1.PNG</spriteFrame>
+            <spriteFrame>start_geye2.png</spriteFrame>
+            <spriteFrame>start_geye3.png</spriteFrame>
+            <spriteFrame>start_geye1.PNG</spriteFrame>
+        </animation>
+        <animation>
+            <name>girl_gj</name>
+            <delay>0.1</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>start_gj1.png</spriteFrame>
+            <spriteFrame>start_gj2.png</spriteFrame>
+            <spriteFrame>start_gj3.png</spriteFrame>
+            <spriteFrame>start_gj1.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

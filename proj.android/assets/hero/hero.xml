@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stage_dk.png posx="330.5" posy="212" pid="0"/>
+
+<stage_db1.png posx="126" posy="192" pid="1"/>
+
+<stage_db1.png posx="332" posy="193" pid="2"/>
+
+<stage_db1.png posx="539" posy="193" pid="3"/>
+
+<stage_an2.png posx="126" posy="38" pid="1"/>
+
+<stage_an2.png posx="330" posy="37" pid="2"/>
+
+<stage_an2.png posx="540" posy="38" pid="3"/>
+
+<stage_dkbt1.png posx="327" posy="397" pid="0"/>
+
+<stage_ll.png posx="332" posy="353" pid="0"/>
+
+<stage_mv.png posx="536" posy="352" pid="0"/>
+
+<stage_sg.png posx="126" posy="352" pid="0"/>
+
+<stage_lv.png posx="68" posy="329" pid="1"/>
+
+<stage_lv.png posx="274" posy="330" pid="2"/>
+
+<stage_lv.png posx="480" posy="331" pid="3"/>
+
+<stage_js2.png posx="127" posy="233" pid="0"/>
+
+<stage_js.png posx="340" posy="219" pid="0"/>
+
+<stage_js1.png posx="550" posy="229" pid="0"/>
+
+<stage_lvxtk.png posx="152" posy="329" pid="1"/>
+
+<stage_lvxtk.png posx="362" posy="329" pid="2"/>
+
+<stage_lvxtk.png posx="566" posy="330" pid="3"/>
+
+<stage_lvxt.png posx="153" posy="330" pid="1"/>
+
+<stage_lvxt.png posx="362" posy="330" pid="2"/>
+
+<stage_lvxt.png posx="566" posy="331" pid="3"/>
+
+<stage_wznb1.png posx="186" posy="103" pid="1"/>
+
+<stage_wznb1.png posx="393" posy="105" pid="2"/>
+
+<stage_wznb1.png posx="598" posy="104" pid="3"/>
+
+<stage_wznb1.png posx="186" posy="80" pid="4"/>
+
+<stage_wznb1.png posx="394" posy="82" pid="5"/>
+
+<stage_wznb1.png posx="598" posy="82" pid="6"/>
+
+<nn.png posx="646" posy="410" pid="0"/>

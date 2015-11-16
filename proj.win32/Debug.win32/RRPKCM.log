@@ -1,0 +1,215 @@
+﻿生成启动时间为 2015/7/14 11:11:11。
+     1>项目“D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\RRPKCM.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\cocos2dx" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\cocos2dx\include" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\cocos2dx\platform\win32" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\cocos2dx\platform\third_party\win32" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\external" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\external\chipmunk\include\chipmunk" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\CocosDenshion\include" /I"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\extensions" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\AnimatePacker.cpp ..\Classes\AppDelegate.cpp ..\Classes\Assistant.cpp ..\Classes\AutoScrollLayer.cpp ..\Classes\BloodTool.cpp ..\Classes\CCShake.cpp ..\Classes\DataBase64.cpp ..\Classes\HelloWorldScene.cpp ..\Classes\json.cpp ..\Classes\KickBoss.cpp ..\Classes\Machtimer.cpp ..\Classes\NTActor.cpp ..\Classes\NTAutoScrollLayer.cpp ..\Classes\NTBox.cpp ..\Classes\NTControlLayer.cpp ..\Classes\NTCoverLayer.cpp ..\Classes\NTEffectLayer.cpp ..\Classes\NTGameGuide.cpp ..\Classes\NTGameHud.cpp ..\Classes\NTGameSave.cpp ..\Classes\NTGameScene.cpp ..\Classes\NTGameSound.cpp ..\Classes\NTGift.cpp ..\Classes\NTGold.cpp ..\Classes\NTHeart.cpp ..\Classes\NTHero.cpp ..\Classes\NTJniHelper.cpp ..\Classes\NTLoadingLayer.cpp ..\Classes\NTMapLayer.cpp ..\Classes\NTMenuItem.cpp ..\Classes\NTMessageBox.cpp ..\Classes\NTMiniMap.cpp ..\Classes\NTPet.cpp ..\Classes\NTRank.cpp ..\Classes\NTRoad.cpp ..\Classes\NTSet.cpp ..\Classes\NTSharedJsonData.cpp ..\Classes\NTSign.cpp ..\Classes\NTStart.cpp ..\Classes\NTStaticData.cpp ..\Classes\NTTask.cpp ..\Classes\NTXmlLoader.cpp main.cpp
+         main.cpp
+         NTXmlLoader.cpp
+         NTTask.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\nttask.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTStaticData.cpp
+         NTStart.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.cpp(241): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.cpp(422): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.cpp(423): warning C4305: “参数”: 从“double”到“float”截断
+         NTSign.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntsign.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTSharedJsonData.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTSet.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTRoad.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntroad.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+         NTRank.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntrank.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTPet.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntpet.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTMiniMap.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntminimap.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTMessageBox.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmessagebox.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTMenuItem.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmenuitem.cpp(51): warning C4305: “参数”: 从“double”到“float”截断
+         NTMapLayer.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(254): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(301): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(339): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(410): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(643): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(652): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(849): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(860): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(871): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(948): warning C4018: “<”: 有符号/无符号不匹配
+         NTLoadingLayer.cpp
+         NTJniHelper.cpp
+         NTHero.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\nthero.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTHeart.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTGold.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgold.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.cpp(465): warning C4715: “NTMapLayer::getRandomBuffInBoxCrowd”: 不是所有的控件路径都返回值
+         正在编译...
+         NTGift.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTGameSound.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesound.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+         NTGameScene.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamescene.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTGameSave.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTGameHud.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.cpp(355): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.cpp(356): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.cpp(428): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.cpp(429): warning C4305: “参数”: 从“double”到“float”截断
+         NTGameGuide.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgameguide.cpp(422): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgameguide.cpp(450): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgameguide.cpp(492): warning C4018: “<”: 有符号/无符号不匹配
+         NTEffectLayer.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\nteffectlayer.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+         NTCoverLayer.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcoverlayer.cpp(75): warning C4305: “参数”: 从“double”到“float”截断
+         NTControlLayer.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.cpp(435): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.cpp(882): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTBox.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntbox.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         NTAutoScrollLayer.cpp
+         NTActor.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntactor.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         Machtimer.cpp
+         KickBoss.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         json.cpp
+         HelloWorldScene.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\helloworldscene.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntmaplayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamehud.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntstart.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         DataBase64.cpp
+         CCShake.cpp
+         BloodTool.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         AutoScrollLayer.cpp
+         正在生成代码...
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntcontrollayer.cpp(203): warning C4715: “NTControlLayer::ccTouchBegan”: 不是所有的控件路径都返回值
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\nteffectlayer.cpp(176): warning C4715: “NTEffectLayer::getParticleFromBatch”: 不是所有的控件路径都返回值
+         正在编译...
+         Assistant.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         AppDelegate.cpp
+     1>d:\project\cocos2d-x-2.2.1\projects\rrpkmm - 火之翼三网版\classes\ntgamesave.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         AnimatePacker.cpp
+         正在生成代码...
+       PreLinkEvent:
+         if not exist "D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\" mkdir "D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\..\..\..\external\libwebsockets\win32\lib\*.*" "D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\RRPKCM.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\\" libExtensions.lib libcocos2d.lib libCocosDenshion.lib opengl32.lib glew32.lib libBox2d.lib libchipmunk.lib libcurl_imp.lib pthreadVCE2.lib websockets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\RRPKCM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\RRPKCM.lib" /MACHINE:X86 /SAFESEH Debug.win32\AnimatePacker.obj
+         Debug.win32\AppDelegate.obj
+         Debug.win32\Assistant.obj
+         Debug.win32\AutoScrollLayer.obj
+         Debug.win32\BloodTool.obj
+         Debug.win32\CCShake.obj
+         Debug.win32\DataBase64.obj
+         Debug.win32\HelloWorldScene.obj
+         Debug.win32\json.obj
+         Debug.win32\KickBoss.obj
+         Debug.win32\Machtimer.obj
+         Debug.win32\NTActor.obj
+         Debug.win32\NTAutoScrollLayer.obj
+         Debug.win32\NTBox.obj
+         Debug.win32\NTControlLayer.obj
+         Debug.win32\NTCoverLayer.obj
+         Debug.win32\NTEffectLayer.obj
+         Debug.win32\NTGameGuide.obj
+         Debug.win32\NTGameHud.obj
+         Debug.win32\NTGameSave.obj
+         Debug.win32\NTGameScene.obj
+         Debug.win32\NTGameSound.obj
+         Debug.win32\NTGift.obj
+         Debug.win32\NTGold.obj
+         Debug.win32\NTHeart.obj
+         Debug.win32\NTHero.obj
+         Debug.win32\NTJniHelper.obj
+         Debug.win32\NTLoadingLayer.obj
+         Debug.win32\NTMapLayer.obj
+         Debug.win32\NTMenuItem.obj
+         Debug.win32\NTMessageBox.obj
+         Debug.win32\NTMiniMap.obj
+         Debug.win32\NTPet.obj
+         Debug.win32\NTRank.obj
+         Debug.win32\NTRoad.obj
+         Debug.win32\NTSet.obj
+         Debug.win32\NTSharedJsonData.obj
+         Debug.win32\NTSign.obj
+         Debug.win32\NTStart.obj
+         Debug.win32\NTStaticData.obj
+         Debug.win32\NTTask.obj
+         Debug.win32\NTXmlLoader.obj
+         Debug.win32\main.obj
+     1>AnimatePacker.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         RRPKCM.vcxproj -> D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\Debug.win32\RRPKCM.exe
+     1>已完成生成项目“D:\project\cocos2d-x-2.2.1\projects\RRPKMM - 火之翼三网版\proj.win32\RRPKCM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:49.48

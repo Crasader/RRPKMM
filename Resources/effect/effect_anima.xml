@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>effects.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>slide_effect</name>
+            <delay>0.08</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>eff_slide0.png</spriteFrame>
+            <spriteFrame>eff_slide1.png</spriteFrame>
+        </animation>
+        <animation>
+            <name>jump_effect</name>
+            <delay>0.08</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>eff_roll0.png</spriteFrame>
+            <spriteFrame>eff_roll1.png</spriteFrame>
+            <spriteFrame>eff_roll0.png</spriteFrame>
+        </animation>
+        <animation>
+            <name>fly_effect</name>
+            <delay>0.08</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>eff_fly1.png</spriteFrame>
+            <spriteFrame>eff_fly2.png</spriteFrame>
+        </animation>
+        <animation>
+            <name>fly_block_effect</name>
+            <delay>0.08</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>eff_misslefire0.png</spriteFrame>
+            <spriteFrame>eff_misslefire1.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

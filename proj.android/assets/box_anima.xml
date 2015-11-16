@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>box.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>jump</name>
+            <delay>0.08</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>block-bounce-stone02.png</spriteFrame>
+            <spriteFrame>block-bounce-stone01.png</spriteFrame>
+            <spriteFrame>block-bounce-stone02.png</spriteFrame>
+            <spriteFrame>block-bounce-stone03.png</spriteFrame>
+        </animation>
+    </animations>
+</root>
