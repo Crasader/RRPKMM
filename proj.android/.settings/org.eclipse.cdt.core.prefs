@@ -1,6 +1,6 @@
 eclipse.preferences.version=1
 environment/project/0.756827735/NDK_MOUDLE_PATH/delimiter=;
-environment/project/0.756827735/NDK_MOUDLE_PATH/operation=append
-environment/project/0.756827735/NDK_MOUDLE_PATH/value=C\:\\Users\\Beryl1991\\Documents\\Android\\android-ndk-r9d
+environment/project/0.756827735/NDK_MOUDLE_PATH/operation=replace
+environment/project/0.756827735/NDK_MOUDLE_PATH/value=/Users/fujiajun/Downloads/android-ndk
 environment/project/0.756827735/append=true
 environment/project/0.756827735/appendContributed=true
